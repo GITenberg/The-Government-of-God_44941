@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43104
     wikipedia: http://en.wikipedia.org/wiki/John_Taylor_%28Mormon%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44941#The-Government-of-God
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
